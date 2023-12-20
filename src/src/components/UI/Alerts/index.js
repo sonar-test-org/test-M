@@ -1,0 +1,1 @@
+export { MultiAlerts } from "./MultiAlerts";
